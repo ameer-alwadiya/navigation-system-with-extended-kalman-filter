@@ -60,15 +60,5 @@ Derivation of Jacobian matrices necessary for the EKF with a nonlinear system.
 - Adjustment of standard deviation to handle increased uncertainty.
 - Comparison of estimations before and after adjustments.
 
-## How to Run
-
-1. **Setup**: Ensure you have MATLAB installed with access to the required toolboxes.
-2. **Load Data**: Load the `dataTask4.mat` file into MATLAB.
-3. **Run Script**: Execute the `SID230255137.m` script to perform the Kalman Filter design, estimation, and analysis tasks.
-4. **View Results**: Check the generated figures for insights into state estimations, bias removal, fault detection, and cyber attack mitigation.
-
-## Requirements
-
-- MATLAB R2021a or later
 - Signal Processing Toolbox
 - Control System Toolbox
